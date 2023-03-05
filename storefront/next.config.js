@@ -8,7 +8,7 @@ module.exports = withStoreConfig({
     domains: [
       "medusa-public-images.s3.eu-west-1.amazonaws.com",
       "localhost",
-      "honnest-gummies-server.s3.amazonaws.com",
+      "honest-gummies-server.s3.eu-west-2.amazonaws.com",
     ],
   },
 })
